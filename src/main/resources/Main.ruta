@@ -1,0 +1,140 @@
+IMPORT PACKAGE de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos FROM GeneratedDKProCoreTypes AS pos;
+IMPORT de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma FROM GeneratedDKProCoreTypes;
+IMPORT PACKAGE de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos FROM Stanfordtagger AS spos;
+IMPORT PACKAGE de.tudarmstadt.ukp.dkpro.core.api.ner.type FROM GeneratedDKProCoreTypes AS ner;
+IMPORT PACKAGE de.tudarmstadt.ukp.dkpro.core.api.syntax.type.dependency FROM GeneratedDKProCoreTypes AS syn;
+
+UIMAFIT de.tudarmstadt.ukp.dkpro.core.stanfordnlp.StanfordSegmenter;
+UIMAFIT de.tudarmstadt.ukp.dkpro.core.stanfordnlp.StanfordPosTagger;
+
+Document{-> SETFEATURE("language","de")};  //Set language
+
+Document{-> EXEC(StanfordSegmenter)};    //Execute stanford segmenter
+
+Document{-> EXEC(StanfordPosTagger, {spos.POS})};   //Execute Stanford PoS Tagger and NER Tagger
+Document{-> RETAINTYPE(SPACE)};
+Document{-> RETAINTYPE(BREAK)};
+
+//DBpedia Annotations
+WORDTABLE DBP ='dboutput.txt';
+DECLARE DBPedia (STRING Link, STRING SimilarityScore,STRING Offset, STRING Types);  
+Document {-> MARKTABLE (DBPedia, 1, DBP, "Link" = 2, "SimilarityScore" = 3, "Offset" = 5, "Types" = 6)};
+//Roman Numeral Tagger
+DECLARE RN(STRING Value);
+WORDTABLE RomanNumeral ='RomanNumeral.txt';
+Document {-> MARKTABLE (RN, 1, RomanNumeral, "Value" = 2)};
+//Rules
+
+//------------------------------------------------------------------------------//
+//-------------------------------CHAPTER ---------------------------------------//
+//------------------------------------------------------------------------------//
+
+DECLARE chapternumber, chaptertopic;
+DECLARE Chapter(chapternumber chapternumber,  chaptertopic chaptertopic);
+
+
+( ((((W{REGEXP("Kapitel")} | (W{REGEXP("Kap")} PERIOD)) WS?  RN){->chapternumber} 
+    WS? ("-"| "–")? WS?) (W{-REGEXP("Inhalt")} &  W{-REGEXP("Inhaltsübersicht")})+ {-> chaptertopic} 
+){->CREATE  (Chapter, "chapternumber" = chapternumber, "chaptertopic" = chaptertopic)} );  
+
+//------------------------------------------------------------------------------//
+//---------------- SUBCHAPTER and SUBSUBCHAPTER --------------------------------//
+//------------------------------------------------------------------------------//
+
+
+
+DECLARE subchapternumber, subchapter, subchapterpage;
+DECLARE SubChapter(subchapternumber subchapternumber, subchapterpage subchapterpage, subchapter subchapter);
+( (RN) { -> MARK(subchapternumber)} PERIOD 
+    (org.apache.uima.ruta.type.ANY)[0,20]? { -> MARK(subchapter)} PERIOD[3,25]?  
+    org.apache.uima.ruta.type.NUM { -> MARK(subchapterpage)}
+) {->CREATE  (SubChapter, "subchapternumber" = subchapternumber, "subchapter" = subchapter, "subchapterpage" = subchapterpage)};
+
+//-------------------------------------------------------------------------------------------------
+DECLARE subsubchapternumber, subsubchapter , subsubchapterpage;
+DECLARE SubSubChapter(subsubchapternumber subsubchapternumber, subsubchapter subsubchapter, subsubchapterpage subsubchapterpage);
+ ( org.apache.uima.ruta.type.NUM { -> MARK(subsubchapternumber)} 
+     PERIOD (org.apache.uima.ruta.type.ANY)[0,20]? { -> MARK(subsubchapter)} PERIOD[3,25]? 
+     org.apache.uima.ruta.type.NUM { -> MARK(subsubchapterpage)}) 
+     {->CREATE  (SubSubChapter, "subsubchapternumber" = subsubchapternumber, "subsubchapter" = subsubchapter, "subsubchapterpage" = subsubchapterpage)};
+ 
+//------------------------------------------------------------------------------//
+//---------------- PART NUMBER, PART TOPIC AND PART PAGE------------------------//
+//------------------------------------------------------------------------------//
+DECLARE partnumber, parttopic, partpage;
+DECLARE Part(partnumber partnumber,  parttopic parttopic, partpage partpage);
+
+(    ((W{REGEXP("^[ABC]")}) PERIOD) { -> MARK(partnumber)}  WS? 
+    (org.apache.uima.ruta.type.ANY & ANY{-PARTOF(PERIOD)})[0,15]? {->MARK(parttopic)}
+     PERIOD[3,20]? org.apache.uima.ruta.type.NUM { -> MARK(partpage)}
+) {->CREATE  (Part, "partnumber" = partnumber, "parttopic" = parttopic, "partpage" = partpage)} ;
+//------------------------------------------------------------------------------//
+//---------------- GESETZ AND REF SINCE THEY ARE THE SAME ----------------------//
+//------------------------------------------------------------------------------//
+
+DECLARE gesetz, gesetzno;
+DECLARE Gesetz(gesetz gesetz);
+DECLARE REF1(Gesetz Gesetz);
+
+( ((SPECIAL{REGEXP("§")}) |  (W{REGEXP("Art")} PERIOD)) org.apache.uima.ruta.type.NUM  (org.apache.uima.ruta.type.ANY{-REGEXP("Rn")})[0,15]? 
+    (W{REGEXP("BGB")} | W{REGEXP("HGB")} | (CW{REGEXP("Ins")} CW{REGEXP("O")}) | W{REGEXP("AGBG")} | 
+        W{REGEXP("KWG")} | W{REGEXP("GG")}) {->gesetz}
+) {-> CREATE (Gesetz, "gesetz" = gesetz)};
+
+( (SPECIAL{REGEXP("§")})+ org.apache.uima.ruta.type.NUM   
+    (W{REGEXP("BGB")} | W{REGEXP("HGB")} | (CW{REGEXP("Ins")} CW{REGEXP("O")}) | W{REGEXP("AGBG")} | 
+        W{REGEXP("KWG")} | W{REGEXP("GG")}) {->gesetz}
+  ) {-> CREATE (Gesetz, "gesetz" = gesetz)};
+
+(Gesetz WS? W{REGEXP("Rn")}){-> MARK(gesetzno)};
+(Gesetz{PARTOF(gesetzno)}){-> UNMARK(Gesetz)};
+(Gesetz){->CREATE(REF1, "Gesetz" = Gesetz)}; //REF is reserved word. So, use REF1
+
+//------------------------------------------------------------------------------//
+//----------------------------------- RFC --------------------------------------//
+//------------------------------------------------------------------------------//
+DECLARE rfc, rfc1, rfc2, ref1, RFC_NE1, RFC_NE2, RFC_NE3, RFC_NE4, explicitReference2;
+// RFC_NE1 - Rule name : posPatterNeDef2
+// RFC_NE2 - RFC_NE rule : patternAufz 
+// RFC_NE3 - RFC_NE rule : patternNE
+// RFC_NE4 - RFC_NE rule : patternwithbrackets
+(pos.ART CAP COMMA W* Gesetz) {-> RFC_NE1};
+((pos.NN pos.V pos.ART (pos.NN pos.PP)* (pos.NN Gesetz) {-> MARK(explicitReference2)} W) {-> RFC_NE2});
+((pos.PP pos.ART pos.NN (pos.NN Gesetz) {-> MARK(explicitReference2)}) {-> RFC_NE2});
+(pos.ART pos.ADJ pos.NN pos.ART pos.NN* W* Gesetz {-> MARK(explicitReference2)}) {->RFC_NE3};
+
+// Pattern with Brackets
+DECLARE RFCNE41, RFCNE42, RFCNE43, RFCNE44, RFCNE45, RFCNE46, RFCNE47, RFCNE48, RFCNE49;
+((pos.ART pos.N)[2,3] W* SPECIAL{REGEXP("[(]")} (pos.ADJ{REGEXP("vgl")}) (org.apache.uima.ruta.type.PERIOD) Gesetz SPECIAL{REGEXP("[)]")})  {-> MARK(RFC_NE4)};
+((pos.ART pos.N)[2,3] W* SPECIAL{REGEXP("[(]")} (SPECIAL{REGEXP("§")}) Gesetz SPECIAL{REGEXP("[)]")})  {-> MARK(RFC_NE4)};
+((pos.ART pos.N)[3,4] W* SPECIAL{REGEXP("[(]")} Gesetz (org.apache.uima.ruta.type.ANY)[0,20]? SPECIAL{REGEXP("[)]")})  {-> MARK(RFC_NE4)};
+(pos.N W pos.N SPECIAL{REGEXP("[(]")} (pos.ADJ{REGEXP("vgl")}) (org.apache.uima.ruta.type.PERIOD) Gesetz SPECIAL{REGEXP("[)]")})  {-> MARK(RFC_NE4)};
+(pos.ART pos.N ANY{-PARTOF(pos.ART)} W* SPECIAL{REGEXP("[(]")} Gesetz SPECIAL{REGEXP("[)]")})  {-> MARK(RFCNE46)};
+((pos.ART pos.N)[2,3] W* SPECIAL{REGEXP("[(]")} Gesetz SPECIAL{REGEXP("[)]")})  {-> MARK(RFCNE43)};
+RFCNE46{PARTOF(RFCNE43)->UNMARK(RFCNE46)};
+(RFCNE43 | RFCNE46) {-> MARK(RFC_NE4)};
+RFCNE43 { -> UNMARK(RFCNE43)};
+RFCNE46 { -> UNMARK(RFCNE46)};
+(pos.ART pos.N pos.O W* SPECIAL{REGEXP("[(]")} Gesetz (org.apache.uima.ruta.type.ANY)[0,20]? SPECIAL{REGEXP("[)]")})  {-> MARK(RFC_NE4)};
+(pos.ART pos.N pos.V pos.V W* SPECIAL{REGEXP("[(]")} (SPECIAL{REGEXP("§")}) Gesetz SPECIAL{REGEXP("[)]")})  {-> MARK(RFCNE42)};
+(pos.PP pos.N pos.ADV pos.PP W* SPECIAL{REGEXP("[(]")} (pos.ADJ{REGEXP("vgl")}) (org.apache.uima.ruta.type.PERIOD) Gesetz SPECIAL{REGEXP("[)]")})  {-> MARK(RFCNE44)};
+(pos.ART pos.N pos.PP W* SPECIAL{REGEXP("[(]")} ((SPECIAL{REGEXP("§")}) | (pos.ADJ{REGEXP("vgl")} org.apache.uima.ruta.type.PERIOD)) Gesetz SPECIAL{REGEXP("[)]")})  {-> MARK(RFCNE41)};
+RFCNE41{PARTOF(RFC_NE4)->UNMARK(RFCNE41)};
+(pos.N (pos.ADJ | pos.V) (pos.N | org.apache.uima.ruta.type.COMMA) W* SPECIAL{REGEXP("[(]")} (SPECIAL{REGEXP("§")}) Gesetz SPECIAL{REGEXP("[)]")}) {-> MARK(RFCNE43)};
+(pos.ADJ pos.N pos.CONJ W* SPECIAL{REGEXP("[(]")}  Gesetz SPECIAL{REGEXP("[)]")}) {-> MARK(RFCNE45)};
+(pos.ART pos.ADJ pos.NN W[2,] SPECIAL{REGEXP("[(]")}  SPECIAL{REGEXP("§")} Gesetz (org.apache.uima.ruta.type.ANY)[0,20]?  SPECIAL{REGEXP("[)]")}) {-> MARK(RFCNE46)};
+(pos.ART pos.N pos.V SPECIAL{REGEXP("[(]")} (pos.ADJ{REGEXP("vgl")}) (org.apache.uima.ruta.type.PERIOD) ANY{-PARTOF(Gesetz)} (org.apache.uima.ruta.type.ANY)[5,50]? Gesetz (org.apache.uima.ruta.type.ANY)[5,20]? SPECIAL{REGEXP("[)]")})  {-> MARK(RFCNE47)};
+(pos.ART pos.N SPECIAL{REGEXP("[(]")} Gesetz (org.apache.uima.ruta.type.ANY)[0,20]? SPECIAL{REGEXP("[)]")})  {-> MARK(RFCNE49)};
+(pos.ADJ pos.N pos.PP pos.ADJ pos.NN W* SPECIAL{REGEXP("[(]")} (org.apache.uima.ruta.type.ANY)[5,50]? Gesetz (org.apache.uima.ruta.type.ANY)[2,10]? SPECIAL{REGEXP("[)]")}) {-> MARK(RFCNE48)};
+RFCNE49{PARTOF(RFC_NE4)->UNMARK(RFCNE49)};
+(RFCNE43 | RFCNE46 | RFCNE41 | RFCNE42 | RFCNE44 | RFCNE45 | RFCNE47 | RFCNE48 | RFCNE49) {-> MARK(RFC_NE4)};
+
+RFCNE41 { -> UNMARK(RFCNE41)};
+RFCNE42 { -> UNMARK(RFCNE42)};
+RFCNE43 { -> UNMARK(RFCNE43)};
+RFCNE44 { -> UNMARK(RFCNE44)};
+RFCNE45 { -> UNMARK(RFCNE45)};
+RFCNE46 { -> UNMARK(RFCNE46)};
+RFCNE47 { -> UNMARK(RFCNE47)};
+RFCNE48 { -> UNMARK(RFCNE48)};
+RFCNE49 { -> UNMARK(RFCNE49)};

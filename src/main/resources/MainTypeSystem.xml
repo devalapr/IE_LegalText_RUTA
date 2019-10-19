@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+    <name>MainTypeSystem</name>
+    <imports>
+        <import location="BasicTypeSystem.xml"/>
+        <import location="GeneratedDKProCoreTypes.xml"/>
+        <import location="Stanfordtagger.xml"/>
+    </imports>
+    <types>
+        <typeDescription>
+            <name>Main.Gericht</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>ger</name>
+                    <description>ger</description>
+                    <rangeTypeName>Main.ger</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.explicitReference2</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.partpage</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.SubChapter</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>subchapternumber</name>
+                    <description>subchapternumber</description>
+                    <rangeTypeName>Main.subchapternumber</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>subchapterpage</name>
+                    <description>subchapterpage</description>
+                    <rangeTypeName>Main.subchapterpage</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>subchapter</name>
+                    <description>subchapter</description>
+                    <rangeTypeName>Main.subchapter</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.DBPedia</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>Link</name>
+                    <description>Link</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>SimilarityScore</name>
+                    <description>SimilarityScore</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>Offset</name>
+                    <description>Offset</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>Types</name>
+                    <description>Types</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.Chapter</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>chapternumber</name>
+                    <description>chapternumber</description>
+                    <rangeTypeName>Main.chapternumber</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>chaptertopic</name>
+                    <description>chaptertopic</description>
+                    <rangeTypeName>Main.chaptertopic</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.ref1</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE41</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE43</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.gesetznope</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE42</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.subsubchapter</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.parttopic</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.Part</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>partnumber</name>
+                    <description>partnumber</description>
+                    <rangeTypeName>Main.partnumber</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>parttopic</name>
+                    <description>parttopic</description>
+                    <rangeTypeName>Main.parttopic</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>partpage</name>
+                    <description>partpage</description>
+                    <rangeTypeName>Main.partpage</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.subchapterpage</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.SubSubChapter</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>subsubchapternumber</name>
+                    <description>subsubchapternumber</description>
+                    <rangeTypeName>Main.subsubchapternumber</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>subsubchapter</name>
+                    <description>subsubchapter</description>
+                    <rangeTypeName>Main.subsubchapter</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>subsubchapterpage</name>
+                    <description>subsubchapterpage</description>
+                    <rangeTypeName>Main.subsubchapterpage</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.REF1</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>lref</name>
+                    <description>lref</description>
+                    <rangeTypeName>Main.lref</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>rref</name>
+                    <description>rref</description>
+                    <rangeTypeName>Main.rref</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.subsubchapterpage</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.rfc</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.lref</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.partnumber</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.Verordnung</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>vo</name>
+                    <description>vo</description>
+                    <rangeTypeName>Main.vo</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.chapternumber</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.subsubchapternumber</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.subchapter</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFC_NE1</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.toc</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFC_NE2</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.Richtlinie</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>rili</name>
+                    <description>rili</description>
+                    <rangeTypeName>Main.rili</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFC_NE3</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RN</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>Value</name>
+                    <description>Value</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFC_NE4</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.chaptertopic</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.ger</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.gesetzno</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.subchapternumber</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.gesetz</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE45</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE44</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE47</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE46</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE49</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.RFCNE48</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.rili</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.rfc1</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.rfc2</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.rref</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.vo</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main.Gesetz</name>
+            <description>Type defined in Main</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>gesetz</name>
+                    <description>gesetz</description>
+                    <rangeTypeName>Main.gesetz</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+    </types>
+</typeSystemDescription>

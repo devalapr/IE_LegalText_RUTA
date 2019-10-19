@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+    <name>DBPediaTestTypeSystem</name>
+    <imports>
+        <import location="BasicTypeSystem.xml"/>
+    </imports>
+    <types>
+        <typeDescription>
+            <name>DBPediaTest.Action</name>
+            <description>Type defined in DBPediaTest</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>meaning</name>
+                    <description>meaning</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>DBPediaTest.RN</name>
+            <description>Type defined in DBPediaTest</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>meaning</name>
+                    <description>meaning</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+    </types>
+</typeSystemDescription>

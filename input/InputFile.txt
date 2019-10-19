@@ -1,0 +1,548 @@
+Häuser
+§ 2 Geschäftsbeziehung und Bankvertrag 25
+§ 2 Geschäftsbeziehung und Bankvertrag
+Schrifttum
+Altjohann, Der Bankvertrag, Diss. München 1962; Balzer, Anm. zu BGHZ 152, 114, BKR 2002, 1092;
+Baumbach/Hopt, HGB, 33. Aufl., 2008; Bunte, Besprechung von Canaris, Bankvertragsrecht, 3. Aufl.,
+Bd. 1 1988, WM 1983, 430; Canaris, Bankvertragsrecht, 3. Aufl., Bd. 1 1988; Claussen (Hrsg.), Bankund Börsenrecht, 4. Aufl. 2008; Claussen, Gibt es einen allgemeinen Bankvertrag oder gibt es ihn nicht?,
+FS Peltzer, 2001, S. 55; ders., WuB I B 6.-1.03 Allgemeiner Bankvertrag; Emmerich, Erläuterung zu
+BGHZ 152, 114, JuS 2003, 293; Fuchs, Zur Lehre vom allgemeinen Bankvertrag, 1982; van Gelder,
+Schutzpflichten zugunsten Dritter im bargeldlosen Zahlungsverkehr, WM 1995, 1253; Guggenheim, Die
+Verträge der schweizerischen Bankpraxis, 1985; Häuser, Giroverhältnis, in: BMJ (Hrsg.), Gutachten und
+Vorschläge zur Überarbeitung des Schuldrechts, Bd. II. 1981, S. 1317; Haupt, Die Allgemeinen Geschäftsbedingungen der deutschen Banken, 1937; Hopt, Kapitalanlegerschutz im Recht der Banken, 1975;
+ders., in: Schimansky/Bunte/Lwowski (Hrsg.), Bankrechts-Handbuch, Bd. I, § 1, 3. Aufl. 2007; Hopt/Mülbert, Kreditrecht, 1989; Immenga, Besprechung von Canaris, Bankvertragsrecht, 3. Aufl., Bd. 1 1988,
+ZBB 1990, 44; Kilgus, Anm. zu BGHZ 152, 144, BB 2002, 2576; Köndgen, Die Entwicklung des privaten
+Bankrechts in den Jahren 1990 – 1991, NJW 1992, 2263; ders., Die Entwicklung des privaten Bankrechts
+in den Jahren 1992 – 1995, NJW 1996, 558; ders., Die Entwicklung des privaten Bankrechts in den Jahren
+1999 – 2003, NJW 2004, 1288; Kort, Kurzkommentar zu BGHZ 152, 144, EWiR § 675 BGB 4/03, 151;
+Kümpel, Bank- und Kapitalmarktrecht, 3. Aufl. 2004; Lang, V., Das Aus für die Lehre vom „allgemeinen
+Bankvertrag“?, BKR 2003, 227; Lwowski/Roth, in: Hellner/Steuer, BuB Rn. 2/2; Mülbert, Der Kontovertrag als bankgeschäftlicher Vertragstyp, FS Kümpel, 2003, S. 395; Neustätter, Kontokorrent-Bedingungen
+der Banken, 1921; Ohlroggen, Die Allgemeinen Geschäftsbedingungen der Banken (1993) und der allgemeine Bankvertrag, 1997; Petersen, Der Bankvertrag, JURA 2004, 627; Pikart, Die Rechtsprechung des
+Bundesgerichtshofs zum Bankvertrag, WM 1957, 1238; Raiser, Das Recht der allgemeinen Geschäftsbedingungen, 1935; Reichwein, Gedanken zu einigen Fragen des Bankrechts, SchwAG 1987, 18; Rohe,
+Netzverträge, 1998; Roth, Der allgemeine Bankvertrag, WM 2003, 480; Rümker, Vertrauenshaftung –
+Strukturprinzip des Bankvertragsrechts, ZHR 147 (1983), 27; ders., Besprechung von Canaris, Bankvertragsrecht, 3. Aufl., Bd. 1 1988, ZIP 1989, 199; Schwark, 100 Bände BGHZ: Bank- und Wertpapierrecht,
+ZHR 151 (1987), 325; ders., Anlegerschutz durch Wirtschaftsrecht, 1979; Schwintowski/Schäfer, Bankrecht, 2. Aufl., 2004; Thessinga, in: Ebenroth/Boujong/Joost (Hrsg.), HGB, 2001, Bd. 2 BankR I; Ulmer,
+P., Der Vertragshändler, 1969; Werner, Ein neues Kompendium des Kreditrechts, ZBB 1990, 236.
+Inhaltsverzeichnis
+A. „Allgemeiner Bankvertrag“ und Geschäftsverbindung zwischen Bank und Kunde. . . . . . . . 1
+I. Begründung der dauernden Geschäftsverbindung zwischen Bank und Kunde
+als Ausgangspunkt. . . . . . . . . . . . . . . . . . . . 1
+II. Rechtsrahmen . . . . . . . . . . . . . . . . . . . . . . . 3
+B. Zur Lehre vom „allgemeinen Bankvertrag“ . . . . 6
+I. Stand der Rechtsprechung. . . . . . . . . . . . . . 6
+1. Bisherige Rechtsprechung . . . . . . . . . . . 6
+2. Urteil des BGH vom 24. September
+2002 – XI ZR 345/01 –
+und seine Fallgestaltung. . . . . . . . . . . . . 7
+3. Kein allgemeiner Bankvertrag aus
+dauernder Geschäftsverbindung. . . . . . . 9
+4. Kein allgemeiner Bankvertrag aus
+Vereinbarung der Allgemeinen
+Geschäftsbedingungen . . . . . . . . . . . . . 10
+5. „Allgemeiner Bankvertrag“ und
+Vertragsbegriff . . . . . . . . . . . . . . . . . . . 11
+6. Kein Kontrahierungszwang für
+„risikoneutrale“ Bankgeschäfte . . . . . . 12
+7. Überflüssige Rechtsfigur . . . . . . . . . . . 13
+II. Meinungsstand im Schrifttum. . . . . . . . . . 14
+1. Befürworter des
+„allgemeinen Bankvertrages“ . . . . . . . 15
+2. Gegner des
+„allgemeinen Bankvertrages“ . . . . . . . 20
+3. Vertragstyp des
+„allgemeinen Bankvertrages“ . . . . . . . 22
+4. Das Verhältnis des allgemeinen
+Bankvertrages zu den einzelnen
+Bankgeschäften . . . . . . . . . . . . . . . . . . 23
+5. Allgemeine Verhaltenspflichten
+der Bank und des Kunden . . . . . . . . . . 33
+6. Bankgeheimnis . . . . . . . . . . . . . . . . . . 35
+7. Beendigung des allgemeinen
+Bankverhältnisses . . . . . . . . . . . . . . . . 38
+C. Lehre vom „Vertrauensverhältnis kraft
+Geschäftsverbindung“ . . . . . . . . . . . . . . . . . . . . 41
+I. Dauernde Geschäftsverbindung als
+gesetzliches Schuldverhältnis . . . . . . . . . . 41
+II. Rechtsprechung. . . . . . . . . . . . . . . . . . . . . 45
+III. Vertrauenshaftung kraft Geschäftsverbindung bei Unwirksamkeit
+des Bankvertrages . . . . . . . . . . . . . . . . . . . 47
+Häuser
+Kap. I – Bankvertragliche Grundlagen
+26
+1 A. „Allgemeiner Bankvertrag“ und Geschäftsverbindung zwischen Bank und
+Kunde
+I. Dauernde Geschäftsverbindung zwischen Bank und Kunde als Ausgangspunkt.
+Der geschäftliche Kontakt zwischen einer Bank und ihren Kunden beschränkt sich meistens nicht auf den Abschluss eines bestimmten einzelnen Bankgeschäfts. Zu solchen Einmalkontakten kommt es vielmehr nur ausnahmsweise, beispielsweise wenn ein Schuldner bargeldlos zahlen will, aber kein Girokonto unterhält. Er schließt dann mit der Bank
+des Zahlungsempfängers einen Überweisungsvertrag (§ 676a Abs. 1 Satz 1 BGB; früher
+sog. „Einzelüberweisungsauftrag“) und stellt den Geldbetrag der Überweisung in bar
+(vgl. § 676a Abs. 1 Satz 3 BGB) oder als Erlös aus einem gleichzeitig, ebenfalls als Einmalkontakt erteilten Scheckinkasso zur Verfügung (als Beispiel BGH WM 1990, 6 =
+NJW-RR 1990, 366 = WuB I F 5.-2.90 (Ott); dazu MünchKommHGB-Häuser, ZahlungsV Rn. B 28). Regelmäßig ist die Aufnahme eines geschäftlichen Kontakts aus der
+Sicht von Bank und Kunde allerdings darauf gerichtet, eine auf Dauer angelegte Geschäftsverbindung (vgl. § 362 Abs. 1 HGB) einzugehen, in deren Rahmen künftig unterschiedliche Bankgeschäfte vereinbart und abgewickelt werden können. Eine solche auf
+Dauer gerichtete Geschäftsverbindung einzugehen, entspricht üblicherweise der Interessenlage sowohl des Kunden als auch der Bank (Baumbach/Hopt, HGB, BankGesch (7)
+Rn. A/6; Claussen, § 1 Rn. 193, 194; Kümpel, Rn. 2.805).
+2 Eingeleitet wird diese Geschäftsverbindung meistens durch den Abschluss eines bestimmten Bankgeschäfts. Für eine gleichzeitige, über dieses einzelne Geschäft hinausgehende Begründung einer dauernden Geschäftsverbindung spricht, wenn der Kontakt sich
+nicht auf dieses Bankgeschäft beschränken soll, sondern auf den Abschluss weiterer Geschäfte angelegt ist, was regelmäßig darin zum Ausdruck kommt, dass die Bank dem Kunden bei dem Abschluss des auslösenden Geschäfts ihre Allgemeinen Geschäftsbedingungen aushändigt. Nach Nr. 1 Abs. 1 Satz 1 AGB der Banken gelten sie nämlich nicht
+nur für das konkrete Bankgeschäft, sondern erfassen „die gesamte Geschäftsverbindung
+zwischen dem Kunden und den inländischen Geschäftsstellen der Bank“. Der Kunde wird
+beispielsweise durch einen Girovertrag im Ausgangspunkt berechtigt, über sein Guthaben
+mittels Überweisung oder Lastschrifteinzug zu verfügen, und die Bank zur Durchführung
+des Giroverkehrs verpflichtet. Gleichzeitig wird regelmäßig ein Girokonto eröffnet
+(§ 676f Satz 1 BGB), und es werden dem Bankkunden die Allgemeinen Geschäftsbedingungen ausgehändigt. Darin kommt typischerweise zum Ausdruck, auch eine dauernde
+Geschäftsverbindung begründen zu wollen. So verbindet sich beispielsweise mit der Eröffnung eines Girokontos regelmäßig die Möglichkeit, alsbald am Zahlungsverkehr auch
+durch eine vereinbarte Überziehung (vgl. § 493 Abs. 1 BGB) teilnehmen zu können, also
+ein Kreditverhältnis zu vereinbaren (§ 676a Abs. 2 Satz 3 a.E. BGB: „ausreichender Kredit eingeräumt“).
+Bankgeheimnis . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Bankgeschäfte, risikoneutrale . . . . . . . . . . . . . . . . 12
+Bankvertrag, allgemeiner . . . . . . . . . . . . . . . . . . 3, 15
+Dauerschuldverhältnis . . . . . . . . . . . . . . . . . 9, 10, 24
+Dienstvertrag . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 22
+Einmalkontakt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Girovertrag . . . . . . . . . . . . . . . . . . . 2, 3, 6, 14, 17, 25
+Geschäftsverbindung . . . . . . . . . . . . . . . . . . . . . . 1, 2
+Gleichbehandlungspflicht . . . . . . . . . . . . . . . . . . . 29
+Kontrahierungszwang . . . . . . . . . . . . . . . . . . . 12, 26
+Kündigung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Leistungsstörungen . . . . . . . . . . . . . . . . . . . . . . . . 31
+Privatautonomie . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Rahmenvertrag . . . . . . . . . . . . . . . . . 8, 16, 23, 25, 41
+Schuldverhältnis, gesetzliches . . . . . . . . . . . . . . . . . 4
+Verhaltenspflichten . . . . . . . . . . . . . . . . . . . . . . . . 33
+Vertragsauslegung . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Vertragsbegriff . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Vertrauenshaftung . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Stichwortverzeichnis
+Häuser
+§ 2 Geschäftsbeziehung und Bankvertrag 27
+3
+II. Rechtsrahmen. Der aufgezeigte, zunächst vor allem rechtstatsächliche Befund führt
+seit langem zu der Frage, ob jenseits der rechtsgeschäftlichen Grundlagen des einzelnen
+Bankgeschäfts, z.B. der Besorgung bargeldloser Zahlungen auf Grund eines Girovertrags,
+mit der Aufnahme einer Geschäftsverbindung auch ein „allgemeiner Bankvertrag“ zwischen dem Kreditinstitut und seinem Kunden geschlossen wird, dessen Rechtswirkungen
+in vielfältiger Hinsicht über die jeweiligen einzelnen Bankgeschäfte, also beispielsweise
+das auslösende Giroverhältnis, hinaus reichen und als rechtsgeschäftliche Grundlage für
+besondere Schutzpflichten, insbesondere Interessenwahrungs-, Auskunfts- und Beratungspflichten dienen. Der „allgemeine Bankvertrag“ soll außerdem die erforderliche
+rechtsgeschäftliche Grundlage für die Geltung der Allgemeinen Geschäftsbedingungen
+der Kreditinstitute im Rechtsverhältnis mit dem Kunden darstellen (vgl. § 305 Abs. 3
+BGB). Erstmals hat wohl Neustätter (S. 71) vom „Bankiervertrag“ als der prägnantesten
+Bezeichnung für die eigenartigen Rechtsbeziehungen gesprochen, die sich auf Grund einer Geschäftsverbindung zwischen Bank und Kunde entwickeln.
+4
+In Anknüpfung an frühe Ausführungen des RG (RGZ 27, 118 (121)) über den besonderen,
+sich in rechtlich bedeutsamer Hinsicht dynamisch entwickelnden Charakter einer „dauernden Geschäftsverbindung“ sehen auch diejenigen Autoren, die aus unterschiedlichen Gründen die Rechtsfigur eines pflichtenbegründenden „allgemeinen Bankvertrages“ ablehnen, in der Geschäftsverbindung zwischen der Bank und Kunden nicht nur ein
+tatsächliches Phänomen. Vielmehr kennzeichnen sie diese Geschäftsverbindung umfassend und ohne rechtsgeschäftliche Anknüpfung als ein besonderes gesetzliches Schuldverhältnis ohne primäre Leistungspflichten (insbesondere Canaris, Rn. 21 ff.). Auch
+nach dieser Rechtsmeinung führt die Aufnahme der Geschäftsverbindung zu Rechtswirkungen zwischen Bank und Kunde, beispielsweise Schutz- und Aufklärungspflichten, die
+unabhängig von dem einzelnen Rechtsgeschäft eintreten. Anhänger der Lehre vom „allgemeinen Bankvertrag“ lehnen nun wiederum eine solche „Vertrauenshaftung kraft Geschäftsverbindung“ nicht grundsätzlich ab, und zwar insbesondere nicht in Fällen, in denen eine Geschäftsverbindung zwar zustande gekommen, aber, beispielsweise mangels
+Geschäftsfähigkeit des Bankkunden, kein rechtswirksamer Bankvertrag geschlossen worden ist (vgl. nur Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 54: „Residualkategorie“).
+5
+Sowohl die Lehre vom „allgemeinen Bankvertrag“ als auch die Auffassung von einem besonderen „gesetzlichen“ Schuldverhältnis aus der Geschäftsverbindung dienen mithin als
+Rechtsgrundlage für allgemeine Verhaltenspflichten, die aus der gesamten Geschäftsverbindung zwischen dem Kunden und dem Kreditinstitut als einem besonderen Vertrauensverhältnis hervorgehen. Offenkundig ist in beiden Lagern die gemeinsame Vorstellung bestimmend, dass sich entweder durch Vertragsrecht oder die gesetzliche Geltung von
+allgemeinem Schuldrecht der Schutz der Interessen von Bankkunden als einer Gruppe
+von regelmäßig geschäftlich weniger erfahrenen oder sozial schwächeren Personen am
+besten verwirklichen lasse. Deshalb wird es von manchen im Ergebnis sogar als nicht entscheidend angesehen, ob die rechtliche Grundlage der bankrechtlichen Geschäftsverbindung in einem „allgemeinen Bankvertrag“ oder schlicht in einer ständigen Geschäftsverbindung liegt (so MünchKommBGB-K. P. Berger, Vor § 488, Rn. 78; Köndgen, NJW
+1996, 558 (559); Ebenroth/Boujong/Joost-Thessinga, Bd. 2 BankR Rn. I 11).
+6
+B. Zur Lehre vom „allgemeinen Bankvertrag“
+I. Stand der Rechtsprechung. 1. Bisherige Rechtsprechung. Die Rechtsprechung, insbesondere der BGH, hatte bis vor kurzem offenbar keinen Anlass, sich explizit zum „allgemeinen Bankvertrag“ als solchem im Unterschied zur vertraglichen Einigung über die
+AGB oder beispielsweise zum Girovertrag zu äußern (Häuser, Giroverhältnis, S. 1317
+Häuser
+Kap. I – Bankvertragliche Grundlagen
+28
+(1340)). Zwar erwähnte die Rechtsprechung gelegentlich den Bankvertrag, etwa im Zusammenhang mit dem Bankgeheimnis oder mit einem Giro- und Kontokorrentvertrag,
+ohne jedoch aus dieser Umschreibung des Rechtsverhältnisses der Bank zu ihrem Kunden
+bestimmte Rechtsfolgen abzuleiten. Häufig war mit dieser Kennzeichnung bei näherem
+Hinsehen verkürzend auch nur das einzelne Bankgeschäft (z.B. die Eröffnung eines Girokontos) gemeint (vgl. BGHZ 63, 87 (90 f.); BGH WM 1973, 892; BGH WM 1958, 871;
+BGH WM 1958, 588; BGH WM 1957, 30; BGHZ 23, 222 (223); BGHZ 2, 218 (225) =
+NJW 1951, 652 = LM Nr. 1 zu § 667 BGB; BGH NJW 1951, 599; OLG München ZIP
+2006, 2122 = NZI 2007, 108 = EWiR 2006, 705; dazu auch Schwark, ZHR 151 (1987),
+325 (329)). Nach Ansicht des OLG Frankfurt besteht freilich im Bank-Kunden-Verhältnis
+„ein allgemeiner Bankvertrag, der, wie dies üblich ist, die Grundlage aller zwischen beiden stattfindenden bankgeschäftlichen Vorgänge bildet“ und „die Pflicht zu gegenseitiger
+Treue, Fürsorge und Rücksichtnahme“ beinhaltet (WM 1988, 1439 (1440); ebenso BGH
+(II. ZS) WM 2004, 1237, 1238).
+7 2. Urteil des BGH vom 24. September 2002 – XI ZR 345/01 – und seine Fallgestaltung. Der Bankrechtssenat des BGH hat im Urteil vom 24. September 2002 – XI ZR 345/
+01 – aus Anlass eines eher unspektakulären, aber anschaulichen Falles nunmehr grundsätzlich zur Lehre von einem pflichtenbegründenden allgemeinen Bankvertrag Stellung
+genommen und diese Rechtsfigur mit einer Reihe von Argumenten abgelehnt (BGHZ
+152, 114 = WM 2002, 2281 = ZIP 2002, 2082 = NJW 2002, 3695 = DB 2002, 2591 = BB
+2002, 2573 = BKR 2002, 1089; dazu Petersen, JURA 2004, 627; Kilgus, BB 2002, 2576;
+Paul, BGHReport 2002, 1096; Balzer, BKR 2002, 1092; Kort, EWiR 2003, 151 „Grundsatzentscheidung“; ebenso Roth, WM 2003, 480).
+8 Konkursverwalter und Bank stritten über entgangene Anlagezinsen aus einem Sichtguthaben in Fremdwährung, das der Gemeinschuldner der Bank verpfändet hatte. Die Bank
+hatte das US-Dollar-Festgeld zu Tagesgeldkonditionen auf dem Konto belassen und es
+mit Rücksicht auf die Verpfändung mit einem Sperrvermerk versehen. Das Berufungsgericht hatte dem Kläger einen Schadensersatzanspruch wegen positiver Vertragsverletzung
+zugesprochen. Es habe für die gesamte und langjährige Geschäftsbeziehung ein Rahmenvertrag bestanden, der die Grundlage für alle einzelnen Bankgeschäfte gebildet habe. Aus
+diesem Rahmenvertrag und den abgeschlossenen Einzelverträgen sei die Bank verpflichtet gewesen, den Gemeinschuldner ordnungsgemäß zu beraten und zu betreuen. Diese
+Pflicht habe die Beklagte verletzt, weil sie das US-Dollar-Festgeld zu Tagesgeldkonditionen auf dem Konto belassen habe, obwohl dieses mit einem Sperrvermerk versehen
+war. Während der Laufzeit des Darlehens von einem Jahr habe der Gemeinschuldner deshalb nicht über das verpfändete Guthaben verfügen können, so dass die vereinbarten
+Tagesgeldkonditionen nicht mehr den tatsächlichen Gegebenheiten entsprochen hätten.
+Die Beklagte habe den Kunden auf dessen Verlangen unverzüglich angemessene Bedingungen einräumen und ihn auf die unzureichende Verzinsung hinweisen müssen. Dieser
+Begründung ist der BGH entgegengetreten. Dem Kunden stehe kein Schadensersatzanspruch aus positiver Vertragsverletzung zu. Die Bank habe keine Pflicht zu ordnungsgemäßer Beratung und Betreuung des Kunden verletzt. Die gesamte Geschäftsbeziehung
+werde nicht durch einen allgemeinen Bankvertrag als Rahmenvertrag überlagert. Nach
+Ansicht des BGH (a.a.O.) hat der klagende Kunde im konkreten Fall keine ausreichenden
+Tatsachen vorgetragen, die einen konkludenten Abschluss eines allgemeinen Bankvertrages als Rahmenvertrag ergeben. Der BGH wendet sich also dagegen, einen solchen Vertragsschluss allein schon aus den folgenden typischen Vertragsumständen herzuleiten.
+9 3. Kein allgemeiner Bankvertrag aus dauernder Geschäftsverbindung. Allein aus einer langjährigen Geschäftsverbindung, die beispielsweise in verschiedenen Verträgen
+Häuser
+§ 2 Geschäftsbeziehung und Bankvertrag 29
+über Bankkonten und Darlehen zum Ausdruck kommt, lässt sich nach Ansicht des BGH
+(a.a.O.) ohne besondere Anhaltspunkte nicht der (konkludente) Abschluss eines eigenständigen allgemeinen Bankvertrages als Rahmenvertrag zwischen dem Bankkunden und
+der Bank herleiten. Der Bankrechtssenat folgt vielmehr dem Teil des Schrifttums, der aus
+einer längeren Geschäftsverbindung zwischen einer Bank und einem Kunden im Zusammenhang mit einem Giro- oder einem Darlehensvertrag keinen eigenständigen allgemeinen Bankvertrag als Rahmenvertrag ableitet, sondern eine längere Geschäftsverbindung
+als eine Beziehung qualifiziert, die auf einer mehr oder weniger großen Zahl von Einzelverträgen und dem sich daraus ergebenden Dauerschuldverhältnis beruht (unter Verweis
+auf MünchKommHGB-Hadding/Häuser, ZahlungsV Rn. A 151 f.; MünchKommBGBWestermann, Vor § 607 BGB Rn. 15 f.; MünchKommBGB-K. P. Berger, Vor § 488
+Rn. 78; Heymann-Horn, Anh. zu § 372 HGB Rn. I/6; Canaris, Rn. 4 ff.; Kümpel,
+Rn. 2.806 ff.; Schwark, ZHR 151 (1987), 325 (329 f.); Werner, ZBB 1990, 236 (238)).
+10
+4. Kein allgemeiner Bankvertrag aus Vereinbarung der Allgemeinen Geschäftsbedingungen. Auch wenn mit dem ersten Giro- oder Darlehensvertrag die Allgemeinen Geschäftsbedingungen der Bank, die nicht nur das Giro- oder Darlehensverhältnis regeln,
+vereinbart werden, kann nach Ansicht des BGH (a.a.O.) nicht von einem zusätzlichen allgemeinen Bankvertrag ausgegangen werden. Giro- und Darlehensverträge seien ihrerseits
+regelmäßig von vornherein auf längere Zeit angelegt und begründeten ein Dauerschuldverhältnis und mithin die Grundlage der Geschäftsbeziehung. Allgemeine Geschäftsbedingungen der Banken und Sparkassen, die aus Anlass eines Giro- oder Darlehensvertrages vereinbart werden, seien nicht Gegenstand eines selbstständigen Vertrags, sondern,
+auch soweit sie mit ihren Bestimmungen über das Giro- oder das Darlehensverhältnis inhaltlich hinausgehen, Teil des Giro- oder Darlehensvertrages. Dass sie auch für spätere
+weitere Bankgeschäfte von Bedeutung sind, ändere nichts. Eines allgemeinen Bankvertrages bedürfe es für die Geltung der AGB mit Rücksicht auf die AGB-Rahmenvereinbarung nach § 305 Abs. 3 BGB (früher § 2 Abs. 2 AGBG) nicht (Werner, ZBB 1990, 236
+(238)).
+11
+5. „Allgemeiner Bankvertrag“ und Vertragsbegriff. Die Annahme eines neben einem
+Giro- oder Darlehensvertrag mit Einbeziehung der Allgemeinen Geschäftsbedingungen
+geschlossenen zusätzlichen allgemeinen Bankvertrages verfehlt nach Ansicht des BGH
+(a.a.O.) sogar den allgemeinen Vertragsbegriff. Es fehle nämlich an einer eigenständigen
+bindenden Rechtsfolge eines solchen Bankvertrages, die durch die von den Parteien abgegebenen Willenserklärungen in Kraft gesetzt wird. Denn der allgemeine Bankvertrag
+begründet auch nach Ansicht seiner Anhänger keine primären Hauptleistungspflichten,
+sondern nur sekundäre Schutz- und Verhaltenspflichten. Solche Pflichten bestehen indes
+unabhängig vom Willen der Parteien (im Anschluss an Canaris, Rn. 5).
+12
+6. Kein Kontrahierungszwang für „risikoneutrale“ Bankgeschäfte. Der BGH
+(a.a.O.) widerspricht ferner der Auffassung eines Teils der Literatur, nach der sich aus
+dem allgemeinen Bankvertrag auch die Pflicht der Bank ergebe, einzelne vom Kunden
+gewünschte risikoneutrale Geschäftsbesorgungen vorzunehmen (Schimansky/Bunte/
+Lwowski-Hopt, § 1 Rn. 27 ff.; Claussen, § 1 Rn. 197; a.A. insoweit Hellner/SteuerLwowski/Roth, BuB Rn. 2/5). Es spreche nichts für die Bereitschaft der Bank, geschweige
+denn für einen dem Kunden gegenüber ausdrücklich erklärten Vertragswillen, sich schon
+bei der Aufnahme der Geschäftsbeziehung unter Aufgabe ihrer Vertragsfreiheit einem beschränkten privatrechtlichen Kontrahierungszwang hinsichtlich vom Kunden gewünschter risikoneutraler Geschäftsbesorgungen zu unterwerfen. Die Annahme eines solchen
+Rechtsbindungswillens, der mit dem Interesse der Bank erkennbar nicht im Einklang
+steht, sei genau so fiktiv wie der des Kunden, er wolle sich verpflichten, künftig alle
+Häuser
+Kap. I – Bankvertragliche Grundlagen
+30
+Bankgeschäfte nur mit dieser Bank, nicht aber mit einer anderen abzuwickeln (im Anschluss an Canaris, Rn. 6 f.).
+13 7. Überflüssige Rechtsfigur. Abschließend führt der BGH (a.a.O.) das sehr weitgehende
+Argument an, der allgemeine Bankvertrag als übergreifender, die gesamte Geschäftsbeziehung regelnder Rahmenvertrag sei überflüssig, weil Schutz- und Verhaltenspflichten,
+die aus dem allgemeinen Bankvertrag folgen sollen, auch von Anhängern der Lehre vom
+allgemeinen Bankvertrag aus einem auf Grund der Geschäftsbeziehung zwischen Bank
+und Kunden bestehenden gesetzlichen Schuldverhältnis ohne primäre Leistungspflichten
+abgeleitet werden, wenn der allgemeine Bankvertrag nichtig ist (im Anschluss an Baumbach/Hopt, (7) BankGesch Rn. A/7; MünchKommBGB-K. P. Berger, Vor § 488 Rn. 78).
+14 II. Meinungsstand im Schrifttum. Bis zur Entscheidung des Bankrechtssenats vom 24.
+September 2002 (a.a.O.) konnte man davon ausgehen, dass die wohl überwiegende Meinung im Schrifttum sich für die Lehre vom allgemeinen Bankvertrag aussprach ( Karsten
+Schmidt, HandelsR, § 20 I 2b, S. 600: „herrschende Meinung“; Schwintowski/Schäfer, § 1
+Rn. 18, Lehre habe sich „durchgesetzt“; Claussen, FS Peltzer, S. 55 (65): „überwiegende
+Literatur“). Während diese Lehre in der Vergangenheit vor allem mit dem Argument angegriffen worden ist, die bloße Vereinbarung der Allgemeinen Geschäftsbedingungen
+reiche für einen Vertrag nicht aus, lässt sich dieser Einwand mit Rücksicht auf § 305
+Abs. 3 BGB (früher § 2 Abs. 2 AGBG), der die AGB-Rahmenvereinbarungen ausdrücklich anerkennt, nicht mehr aufrechterhalten. Selbst wenn in der Praxis eine isolierte Rahmenvereinbarung außerhalb eines konkreten Bankgeschäfts, z.B. des Abschlusses eines
+Girovertrags, nur selten vorkommt, so ist es rechtlich durchaus möglich, eine derartige
+Vereinbarung der Allgemeinen Geschäftsbedingungen aus Anlass eines bestimmten Geschäfts nach Maßgabe des § 305 Abs. 3 BGB (früher § 2 Abs. 2 AGBG) zu treffen. Bei
+später abzuschließenden Rechtsgeschäften gelten dann die AGB, ohne dass es einer erneuten Einbeziehung nach § 305 Abs. 2 BGB (früher § 2 Abs. 1 AGBG) bedarf. Heute
+wird umgekehrt darauf hingewiesen, die in § 305 Abs. 3 BGB (früher § 2 Abs. 2 AGBG)
+anerkannte Rahmenvereinbarung über die Geltung der AGB lasse ein Bedürfnis für einen
+„allgemeinen Bankvertrag“ entfallen (Werner, ZBB 1990, 236 (238)) oder diese sei „kein
+Spezifikum des Bankrechts“ (so Kümpel, Rn. 2.815).
+15 1. Befürworter des „allgemeinen Bankvertrages“. Teile des Schrifttums gehen davon
+aus, dass Bank und Kunde als rechtsgeschäftliche Grundlage ihrer Geschäftsverbindung,
+wenn nicht nur ein einzelnes Bankgeschäft abgewickelt werden soll, einen „allgemeinen
+Bankvertrag“ schließen, der ein auf Geschäftsbesorgung gerichteter Dienstvertrag sei
+(§§ 675 Abs. 1, 611 Abs. 1 BGB) und der den rechtlichen Rahmen für die jeweils zu
+schließenden Einzelverträge vorgibt und dessen Wirkungen über die jeweiligen einzelnen
+Bankgeschäfte, also auch ein Giroverhältnis, hinausreicht (Köndgen, NJW 1992, 2263;
+Pikart, WM 1957, 1238; Baumbach-Hopt, HGB, BankGesch (7) A/6; Hopt/Mülbert, Vorbem. zu § 607 BGB, Rn. 506; Hopt, S. 393 ff.; Schimansky/Bunte/Lwowski-Hopt, § 1
+Rn. 19, 32; Schimansky/Bunte/Lwowski-Bunte, § 2 Rn. 2; Hellner/Steuer-Lwowski/Roth,
+BuB, Rn. 2/2 ff.; Raiser, S. 135 (145); P. Ulmer, S. 316 ff.; Schwark, ZHR 151 (1987), 325
+(329); Rümker, ZHR 147 (1983), 27; Bunte, WM 1983, 430; Fuchs, passim; Häuser,
+S. 1317 (1336); Staudinger-Martinek, BGB, Stand 2006, § 675 Rn. B 27; MünchKommBGB-Heermann, § 675 Rn. 51; Palandt-BGB-Sprau, § 675 Rn. 9; auch nach der Entscheidung des BGH Claussen, § 1 Rn. 200; Köndgen, NJW 2004, 1288, 1289; Roth, WM 2003,
+480 (482)). Dies komme insbesondere in der üblichen Vereinbarung der Allgemeinen Geschäftsbedingungen der Banken oder der Sparkassen zum Ausdruck, die eben nicht nur
+Bestimmungen über einzelne Bankgeschäfte enthielten, sondern auf die gesamte Geschäftsverbindung ausgerichtet seien, ohne sich jedoch darin zu erschöpfen. Ein solcher
+Häuser
+§ 2 Geschäftsbeziehung und Bankvertrag 31
+„allgemeiner Bankvertrag“, der von den im Einzelnen abzuschließenden Bankgeschäften zu unterscheiden ist, differenziert also die ohnehin schon vielschichtige Vertragstruktur auch einfacher Bankgeschäftstypen, wie beispielsweise den „Kontovertrag“ (dazu
+Mülbert, FS Kümpel, S. 395), weiter aus. Er hat zwar keine primären Hauptleistungspflichten zum Gegenstand, ist aber wohl die Rechtsgrundlage für sekundäre Schutz- und
+Verhaltenspflichten, und zwar sowohl zu Gunsten der Bank als auch des Kunden, für das
+Kreditinstitut steht insbesondere die Pflicht zur Verschwiegenheit (sog. Bankgeheimnis)
+im Vordergrund.
+16
+Zu Gunsten eines „allgemeinen Bankvertrages“ hat sich in jüngerer Zeit auch nach der
+Entscheidung des BGH insbesondere Hopt mit Rücksicht auf die rechtsgeschäftliche
+Privatautonomie ausgesprochen, die es als selbstverständlich erscheinen lasse, dass
+Bank und Kunde ihre Geschäftsverbindung in einem solchen Bankvertrag als Grund und
+Rahmen für später abzuschließende einzelne Geschäfte ausgestalten können. Der Gesetzgeber habe den Grund- oder Rahmenvertrag als zivilrechtliche Rechtsfigur in § 104
+Abs. 2 InsO ausdrücklich anerkannt und auch Nr. 1 Abs. 1 AGB der Sparkassen deute mit
+der folgenden Formulierung darauf hin: „Die Geschäftsbeziehung zwischen dem Kunden
+und der Sparkasse ist durch die Besonderheiten des Bankgeschäfts und ein besonderes
+Vertrauensverhältnis geprägt“. Es könne nur fraglich sein, ob die Parteien einen solchen
+Vertrag im Einzelfall tatsächlich gewollt haben, weshalb gegen den Bankvertrag nicht
+überzeugend eingewandt werden könne, Bank und Kunde würden nicht stets einen Bankvertrag vorweg schließen. Von einem „Aus für die Lehre vom allgemeinen Bankvertrag“
+kann deshalb nach Hopt keine Rede sein. Die Frage nach der Existenz oder Nichtexistenz
+eines allgemeinen Bankvertrages sei nicht richtig gestellt. Anknüpfungspunkt für die Begründung eines allgemeinen Bankvertrages sei die Feststellung des rechtlichen Gestaltungswillens von Bank und Kunde, der nach den §§ 133, 157 BGB durch Auslegung des
+Vertrages zu ermitteln sei, den der Kunde zur Aufnahme der Beziehung zu der Bank gerade abschließt. (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 15, 19f., 53; Baumbach/
+Hopt, HGB, BankGesch (7) A/6; Lang, BKR 2003, 227 (230); Ebenroth/Boujong/JoostThessinga, Bd. 2 BankR Rn. I 11; Kilgus, BB 2002, 2567).
+17
+Ob im einzelnen Fall, wenn der Kunde einen Girovertrag mit entsprechender Kontoeröffnung vereinbart oder einen Krediteröffnungsvertrag schließt, zusätzlich auch ein Bankvertrag zustande kommt, wird folgerichtig als eine Frage der Vertragsauslegung (§§ 133,
+157 BGB) angesehen. Insoweit entspricht es nach Hopt typischerweise dem Interesse des
+Kunden, dass die Bank über das konkrete Geschäft hinaus seine Interessen wahrt, z. B. das
+Bankgeheimnis beachtet, ihm im Rahmen normaler Bankgeschäfte zur Verfügung steht
+und ihn bei der Verhandlung über künftige Einzelgeschäfte nicht schädigt oder dafür haftet. Und die Bank ihrerseits bringt zum Ausdruck, dass sie sich diesen Erwartungen nicht
+verschließt, was beispielsweise in Nr. 2 Abs. 2 der AGB der Banken sichtbar wird, in dem
+sie die Wahrung des Bankgeheimnisses auch über das konkrete Geschäft hinaus verspricht
+oder wenn Nr. 1 Abs. 1 AGB der Sparkassen betont, die Geschäftsverbindung werde
+durch ein besonderes Vertrauensverhältnis geprägt (Schimansky/Bunte/Lwowski-Hopt,
+§ 1 Rn. 22; ebenso Claussen, FS Peltzer, S. 55 (66); Ebenroth/Boujong/Joost-Thessinga,
+Bd. 2 BankR Rn. I 11). Zu dem Gegenargument, es liege nicht im Interesse der Banken,
+sich in dieser Weise bereits über das aktuelle Geschäft hinaus rechtlich zu verpflichten,
+wird darauf verwiesen, die Banken würden die Erwartungshaltung ihrer Kunden kennen
+und diese als in ihrem Geschäftsinteresse liegend gerne hinnehmen (Schimansky/Bunte/
+Lwowski-Hopt, § 1 Rn. 22).
+18
+Wenn ferner gegen den Bankvertrag angeführt wird, die Parteien setzten keine Rechtsfolge in Geltung, weil sie die Geschäftsverbindung jederzeit abbrechen könnten (so CaHäuser
+Kap. I – Bankvertragliche Grundlagen
+32
+naris, Anm. 4), ist aus heutiger Sicht einzuwenden, dass die Bank nach Nr. 19 Abs. 1
+AGB-Banken die gesamte Geschäftsverbindung oder einzelne Geschäftsbeziehungen, für
+die weder eine Laufzeit noch eine abweichende Kündigungsregelung vereinbart ist, nur
+unter Einhaltung einer angemessenen Kündigungsfrist jederzeit kündigen kann. Nur der
+Kunde kann allerdings nach Nr. 18 Abs. 1 AGB-Banken jederzeit ohne Einhaltung einer
+Kündigungsfrist kündigen. Vor allem spricht es nicht gegen einen Vertragsschluss, dass
+ein daraus entstandenes Schuldverhältnis jederzeit beendet werden kann. Entscheidend
+ist, ob inhaltlich Rechte und Pflichten vereinbart sind, die so lange bestehen, bis das vertragliche Schuldverhältnis, sei es auch ohne Kündigungsfrist, beendet wird. Im Übrigen
+wirft die Gegenansicht die Frage auf, was nach Nr. 18, 19 AGB der Banken eigentlich gekündigt werden kann und muss, falls ohnehin keine Bindung besteht?
+19 Dass die aus dem allgemeinen Bankvertrag folgenden Schutzpflichten sich ebenso gut mit
+Hilfe eines gesetzlichen Schuldverhältnisses (Lehre von der Geschäftsverbindung oder
+der Vertrauenshaftung) erklären lassen (dazu Rn. 41), ist sachlich belanglos. Entscheidend
+ist, ob der Kunde solche Pflichten von seinem Vertragspartner erwartet, es also als Vertragsbestandteil ansieht und die Bank dies ebenfalls so betrachtet oder jedenfalls den Kunden in der Erwartung belässt (§§ 133, 157 BGB) (Schimansky/Bunte/Lwowski-Hopt, § 1
+Rn. 23).
+20 2. Gegner des „allgemeinen Bankvertrages“. Andere Autoren lehnen die Lehre vom allgemeinen Bankvertrag grundsätzlich ab (vgl. nur Canaris Rn. 2 ff.; Heymann-Horn, Anh.
+§ 372 Rn. I/7; Schwark, S. 100 ff.; Altjohann, 1962). Es ist sogar von dem „Gespenst“ des
+allgemeinen Bankvertrages die Rede (so Reichwein, SchwAG 1987, 18 (21); ferner Guggenheim, S. 11: „wirklichkeitsfremd“). Gegen einen „allgemeinen Bankvertrag“ spreche,
+dass er, abgesehen von den durch ihn begründeten Verhaltenspflichten, „keinen materiellen Inhalt“ hat; denn weder verpflichte er den Bankkunden, bestimmte Bankgeschäfte abzuschließen, noch verpflichte er die Bank, einem derartigen Abschluss zuzustimmen (so
+Werner, ZBB 1990, 236 (238)). Mit der bloß einverständlichen Herstellung einer Geschäftsverbindung werde deshalb keine „Rechtspflicht in Geltung gesetzt“ und es würden
+somit die Voraussetzungen des allgemeinen Vertragsbegriffes verfehlt. Auch im bankgeschäftlichen Verkehr gelte mit Blick auf die Geschäftsverbindung die allgemeine Regel
+des § 362 Abs. 1 HGB, nach der ein Schweigen des Kreditinstituts auf einen Vertragsantrag des Kunden über eine Geschäftsbesorgung als Annahme gilt. Damit werde dem
+Schutzbedürfnis eines Bankkunden im Rahmen einer Geschäftsverbindung ausreichend
+Rechnung getragen (MünchKommHGB-Hadding/Häuser, ZahlungsV Rn. A 152; Balzer,
+BKR 2002, 1092 (1094)).
+21 Da freilich die schützwürdigen Interessen, denen der allgemeine Bankvertrag Rechnung
+tragen will, nicht in Frage gestellt werden, liegt der Schwerpunkt der Argumentation der
+Gegner in der alternativen Begründung der meisten Ergebnisse, die auch mit der allgemeinen Annahme des Bankvertrages erreicht werden sollen, und zwar mittels der Lehre
+von der Geschäftsverbindung und teilweise unter zusätzlicher Heranziehung der Lehre
+von der Vertrauenshaftung (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 25).
+22 3. Vertragstyp des „allgemeinen Bankvertrages“. Nach der Lehre von einem „allgemeinen Bankvertrag“ ist er schuldvertraglich als ein Dienstvertrag, der auf eine Geschäftsbesorgung gerichtet ist (§§ 675 Abs. 1, 611 Abs. 1 BGB), zu qualifizieren, denn die
+Bank verspricht dem Kunden, ihm für die Besorgung der allgemeinen Bankgeschäfte zur
+Verfügung zu stehen. Der Bankvertrag ist also kein untypischer Vertrag (kein Vertrag sui
+generis), sondern verpflichtet zur interessewahrenden Besorgung von Bankgeschäften
+unterschiedlichen Vertragstyps für den Kunden; denn die einzelnen parallelen BankgeHäuser
+§ 2 Geschäftsbeziehung und Bankvertrag 33
+schäfte sind ganz unterschiedlichen Vertragstypen wie beispielsweise dem Geschäftsbesorgungsvertrag (§ 675 Abs. 1 BGB), dem Kauf-, Dienst- oder Werkvertrag (§§ 433 ff.,
+611 ff. oder 631 ff.) zuzuordnen (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 32; Baumbach/Hopt, HGB, BankGesch (7) A/6; ferner schon Raiser, S. 145; Haupt, S. 43 (45 f.);
+Ulmer, S. 318).
+23
+4. Das Verhältnis des allgemeinen Bankvertrages zu den einzelnen Bankgeschäften.
+Die Geschäftsverbindung auf Grund des Bankvertrages ist also von den einzelnen abzuschließenden Bankgeschäften zu unterscheiden. Denn anknüpfend an die Präambel der
+AGB der Banken aus dem Jahre 1993 wird der wesentliche Inhalt des allgemeinen Bankvertrages nach wie vor darin gesehen, dass Bank und Kunde eine „Geschäftsverbindung“
+eingehen und die Bank den Kunden ihre Geschäftseinrichtungen zur Erledigung verschiedenartiger Aufträge zur Verfügung stellt (z. B. Liesecke, WM 1959, 614). Im Verhältnis
+zu den einzelnen Bankgeschäften kommt es mit Rücksicht auf die Kennzeichnung des
+Bankvertrages als Grund- oder Rahmenvertrag zu einer Aufteilung der vertraglichen Regelungsmaterie (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 33; Baumbach/Hopt, HGB,
+BankGesch (7) Rn. A/6).
+24
+Soweit einzelne Bankgeschäfte nicht nur ein Dauerschuldverhältnis begründen, sondern
+ihrerseits als Grund- oder Rahmenverträge zu qualifizieren sind, ist davon auszugehen,
+dass die Parteien nicht zwei Rahmenverträge, sondern einen einheitlichen Rahmenvertrag
+abschließen wollen. Dies gilt etwa für den Krediteröffnungsvertrag, durch den der Kreditgeber sich zur Kreditgewährung bis zu einer bestimmten Höhe (Kreditrahmen) verpflichtet. Der Vertrag gibt dann nicht nur den Rahmen für die einzelnen Kreditverträge,
+sondern auch für weitere Bankgeschäfte ab. Soweit dabei Vertragselemente unterschiedlicher Typen kombiniert werden – für den Krediteröffnungsvertrag je nach dem versprochenen Kredit bereits Elemente des entsprechenden Vertragstyps (§§ 488 Abs. 1, 675
+Abs. 1, 433 Abs. 1 BGB, Garantievertrag), für den Bankvertrag §§ 675 Abs. 1, 611 Abs. 1
+BGB –, ist dies unproblematisch (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 38).
+25
+a) Zustandekommen. Die Vorstellung vom Bankvertrag als Grund- oder Rahmenvertrag legt es an sich nahe, dass er zeitlich vor dem ersten einzelnen Bankgeschäft zustande kommt. Dies wird im Einzelfall nur möglich sein, wenn etwa die Bankverbindung zwar aus Anlass eines konkreten Bankgeschäftes begründet wird, der endgültige
+Abschluss desselben, etwa die Einholung einer Bürgschaft oder des Darlehensvertrag
+noch von weiteren Umständen, beispielweise der Prüfung einzuräumender Sicherheiten,
+abhängt. Üblicherweise wird der Bankvertrag jedoch zusammen mit dem eines einzelnen Bankgeschäftes geschlossen, so wenn ein Girovertrag abgeschlossen oder ein Kredit
+gewährt wird. Gleichwohl ist auch hier zwischen dem Rahmenverhältnis und dem einzelnen Bankgeschäft rechtlich zu unterscheiden (Schimansky/Bunte/Lwowski-Hopt, § 1
+Rn. 34). Zu seiner Wirksamkeit bedarf es keines schriftlichen Antrags und auch nicht der
+Ausfüllung von Formblättern (so BGH WM 1958, 589 (599); Ebenroth/Boujong/JoostThessinga, Bd. 2 BankR Rn. I 14).
+26
+b) Abschlusspflichten der Bank bei „neutralen“ Geschäften. Die Bank ist regelmäßig
+nicht verpflichtet, auf Grund des allgemeinen Bankvertrages im Sinne eines verpflichtenden Vorvertrags einzelne Bankverträge zu schließen. Etwas anderes wäre mit der Vertragsabschlussfreiheit unvereinbar. Ein Kontrahierungszwang beispielsweise bei Krediten an Personen, welche die bonitätsmäßigen Voraussetzungen dafür nicht erfüllen, oder
+bei einer Bürgschaft für einen nicht solventen Kunden wäre ökonomisch unsinnig (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 27 ff.; Ebenroth/Boujong/Joost-Thessinga, Bd. 2
+BankR Rn. I 17).
+Häuser
+Kap. I – Bankvertragliche Grundlagen
+34
+27 Zu einem Bankvertrag steht es freilich in Widerspruch, dass die Bank im Rahmen der bestehenden Bankverbindung bei so genannten neutralen Geschäften, beispielsweise der Errichtung eines Girokontos oder der Besorgung von Wertpapiergeschäften, ein Angebot
+des Kunden beliebig abweisen kann. Man wird annehmen können, dass die Bank dem
+Kunden im Bankvertrag ausdrücklich oder konkludent verspricht, ihm für seine Bankgeschäfte im Rahmen der Besonderheiten des Bankgeschäftes und in einem besonderen Vertrauensverhältnis zur Verfügung zu stehen und dabei seine Aufträge mit der Sorgfalt eines
+ordentlichen Kaufmannes ausführt (Nr. 1 Abs. 1 AGB-Sparkassen). Die beliebige Ausschließung eines Kunden, auch von neutralen Bankgeschäften, wäre mit dem Bankvertrag
+als Interessewahrungs- und Vertrauensverhältnis unvereinbar (Schimansky/Bunte/
+Lwowski-Hopt, § 1 Rn. 28; Schimansky/Bunte/Lwowski-Bunte, § 2 Rn. 20; Ebenroth/
+Boujong/Joost-Thessinga, Bd. 2 BankR Rn. I 17). Denn im Bankvertrag als Interessewahrungsvertrag (zutreffend OLG Frankfurt WM 1988, 1439 (1440)) vereinbaren Bank und
+Kunde, die Geschäftsbeziehung als ein Vertrauensverhältnis zu behandeln. Die Bank verspricht dem Kunden, seine Interessen zu wahren, soweit das der Bankverbindung oder der
+Stellung der Bank entspricht und mit der Wahrung ihrer eigenen Interessen vereinbar ist.
+28 Es räumen auch Gegner des allgemeinen Bankvertrages ein, dass die Bank in besonderen
+Fällen aus der Geschäftsverbindung verpflichtet sein kann, ihr angetragene Geschäfte zu
+übernehmen (vgl. Kümpel, Rn. 2.812; Canaris, Anm. 9 und Anm. 1271, Anm. 1840,
+1843). Es wäre aber nicht folgerichtig, die Interessenwahrung und das Vertrauen nur auf
+die jeweils einzelnen Bankgeschäfte zu beschränken. Die Bank darf bei Fortbestehen der
+Geschäftsbeziehung den Bankkunden nicht nach freiem Belieben oder willkürlich und
+ohne eigenes Interesse von ihren Bankdienstleistungen ausschließen. Wenn die Bank den
+Kunden abweisen will, muss sie vielmehr die gesamte Geschäftsverbindung, also den
+Bankvertrag beenden, was sie heute jederzeit unter Einhaltung einer angemessenen Kündigungsfrist kann (Nr. 19 Abs. 1 AGB-Banken; Nr. 26 Abs. 1 Satz 2 AGB-Sparkassen)
+(Schimansky/Bunte/Lwowski-Hopt,§ 1 Rn. 29).
+29 c) Gleichbehandlungspflicht der Bank bei „neutralen“ Geschäften. Ebenso wie Banken auf Grund des Bankvertrages einem punktuellen Abschlusszwang unterliegen, gilt für
+sie auch eine inhaltliche Beschränkung mit Rücksicht auf eine bankvertraglich vereinbarte Gleichbehandlungspflicht hinsichtlich „neutraler“ Geschäfte. Aus denselben Gründen kann sie im Massengeschäft nicht einzelne Kunden willkürlich anders behandeln als
+alle anderen. Mit Rücksicht auf die Vertragsinhaltsfreiheit ist sie selbstverständlich nicht
+verpflichtet, jedem Kunden im Wettbewerb dieselben Konditionen zu gewähren. Aber der
+Kunde hat beispielsweise bei einer allgemeinen Gebührensenkung oder einer Änderung
+der Geschäftsbedingungen zu Gunsten der Kunden Anspruch darauf, dass diese auch ihm
+angeboten wird. Er braucht, wenn nichts anderes abgesprochen ist, nicht damit zu rechnen, dass die Bank ihn bei Bankdienstleistungen, die sie im Massengeschäft zu üblichen
+Entgelten und Bedingungen erbringt, willkürlich anders behandelt (§§ 133, 157 BGB)
+(Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 30; Ebenroth/Boujong/Joost-Thessinga,
+Bd. 2 BankR Rn. I 20; im Ergebnis ebenso Canaris, Anm. 121). Dies folgt aus einer rahmenvertraglichen Absprache für die gesamte Geschäftsführung. Die Bank kann sich dem
+nur entziehen, wenn sie die Interessewahrung insgesamt und unter Einhaltung der vereinbarten Frist zu Ende bringt (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 30).
+30 d) Rechtswirksamkeit. Bankvertrag und einzelnes Bankgeschäft sind grundsätzlich unabhängig voneinander rechtswirksam. Der § 139 BGB gilt im Verhältnis der Geschäfte
+zueinander nicht (Ebenroth/Boujong/Joost-Thessinga, Bd. 2 BankR Rn. I 14). Ist der
+Bankvertrag wirksam, kann beispielsweise gleichwohl ein einzelner Darlehensvertrag
+wegen sittenwidriger Höhe der Zinsen oder sonstiger Vertragsgestaltung nichtig sein.
+Häuser
+§ 2 Geschäftsbeziehung und Bankvertrag 35
+Diese Sittenwidrigkeit wirkt sich nicht auf den Bankvertrag aus, was im Einklang mit den
+Interessen des Kunden liegt. Das gilt auch in dem seltenen Fall, dass einzelne Bankgeschäfte formbedürftig sind (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 35). Umgekehrt
+lässt die Nichtigkeit des allgemeinen Bankvertrages gewöhnlich die Wirksamkeit des einzelnen Bankgeschäftes unberührt, so wenn das einzelne Bankgeschäft erst später abgeschlossen wird, beispielsweise ein Minderjähriger inzwischen volljährig geworden ist,
+oder wenn hinsichtlich des Bankvertrages, aber nicht des Darlehensvertrages ein Dissens
+vorliegt (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 36).
+31
+e) Leistungsstörungen und Beendigung. Auch hinsichtlich der Leistungsstörungen und
+der Beendigung der Vertragsverhältnisse ist zwischen Bankvertrag und einzelnen Bankgeschäften zu unterscheiden. Die Leistungsstörungen wirken sich zunächst nur in dem
+rechtlichen Verhältnis aus, in dem sie eingetreten sind. Um sie auch auf das jeweils andere
+Verhältnis zu erstrecken, muss dies besonders begründet oder vereinbart werden (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 39).
+32
+Auch bei der Kündigung ist zwischen einzelnen Geschäftsbeziehungen und dem allgemeinen Bankverhältnis zu trennen. Wird ein einzelnes Geschäftsverhältnis gekündigt, so
+berührt dies nicht ohne weiteres das allgemeine Bankverhältnis. Selbst bei außerordentlicher fristloser Kündigung des allgemeinen Bankvertrages wird nicht automatisch auch
+das einzelne Bankgeschäft, beispielsweise ein gewährter Kredit, zum gleichen Zeitpunkt
+beendet (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 40).
+33
+5. Allgemeine Verhaltenspflichten der Bank und des Kunden. a) Bank. Als unmittelbare Wirkungen des allgemeinen Bankvertrages sind vor allem allgemeine Schutz- und
+Verhaltenspflichten seitens der Bank typisch, die sich ergeben, falls er wirksam zu Stande
+gekommen ist (ebenso BGH WM 2004, 1237, 1238), und nicht erst aus einem vorvertraglichen Schutz- und Schuldverhältnis, der Geschäftsverbindung oder dem Vertrauen als
+Grundlage einer Vertrauenshaftung. Aus diesem Vertrauensverhältnis ergibt sich in erhöhtem Maße die Verpflichtung zur Wahrung von Treu und Glauben, wovon nicht nur das
+einzelne Geschäft, sondern der allgemeine Bankvertrag beherrscht wird. Diese Nebenpflichten stehen neben den eigentlichen vertraglichen Pflichten und prägen wie diese den
+Vertragsinhalt. Im Vordergrund stehen die an anderer Stelle behandelten allgemeinen Verhaltenspflichten der Bank, z. B. Aufklärungs-, Warn-, Auskunfts- und Beratungspflichten. Die wichtigsten dieser Pflichten sind das Bankgeheimnis (Rn. 35) und allgemeine
+Aufklärungspflichten der Bank.
+34
+b) Kunde. Die Pflichten des Kunden aus dem allgemeinen Bankvertrag stehen nicht so
+sehr im Vordergrund. Aber auch den Kunden können bestimmte Verhaltenspflichten gegenüber der Bank treffen, beispielsweise die Pflicht, die Gefahren von Fälschung, Verfälschung und betrügerischen Manipulationen nach Maßgabe seiner Einsicht soweit wie
+möglich auszuschalten. In den AGB-Banken sind z. B. die Pflicht zur Überprüfung der
+Rechnungsabschlüsse (Nr. 7 Abs. 2 AGB-Banken) oder die Verpflichtung zur Erteilung
+von klaren und eindeutigen Aufträgen (Nr. 11 Abs. 2 AGB-Banken) geregelt, von denen
+anzunehmen ist, dass sie auch ohne die ausdrückliche Erwähnung in den AGB gelten würden. Auch sonst müssen die Kunden im Interesse der Bank ein gewisses Maß an Kontrolle
+der im Verkehr mit der Bank anfallenden Unterlagen, insbesondere der ihm in den Tagesauszügen mitgeteilten Kontobewegungen und Kontostände aufbringen (Häuser, S. 1317
+(1344)).
+35
+6. Bankgeheimnis. Aus dem Bankvertrag schuldet die Bank auch ohne ausdrückliche
+Vereinbarung die umfassende Verschwiegenheitspflicht (vgl. zu Datenschutz und Bankgeheimnis ausführlich § 5 und § 6). Deshalb überzeugt die Behauptung nicht, SchutzHäuser
+Kap. I – Bankvertragliche Grundlagen
+36
+pflichten würden sich schon aus dem gesetzlichen Schuldverhältnis (Rn. 41) ergeben und
+könnten nicht Inhalt des Bankvertrages sein; denn gerade das Bankgeheimnis, das von den
+Gegnern des Bankvertrages (auch) als gesetzliche Schutzpflicht angesehen wird, zeigt,
+dass die Frage zwischen Bank und Kunden vertraglich geregelt werden kann. Das Rechtsverhältnis zwischen der Bank und ihrem Kunden wird auch als „besonderes Vertrauensverhältnis“ umschrieben; die Bank ist deshalb ihrem Kunden „vertraglich zur Verschwiegenheit verpflichtet über ihren Geschäftsverkehr mit ihm und über alle Angelegenheiten,
+die aus diesem Anlass zu ihrer Kenntnis gelangen“ (so RG, Bank-Archiv XXXIV (1934),
+326). Dieses Bankgeheimnis findet seine Rechtsgrundlage „in vertraglichen (oder vorvertraglichen) Beziehungen zu der Bank“; es gilt als „selbstverständlicher Bestandteil des
+Bankvertrages auch nach Beendigung der vertraglichen Beziehungen“ (BGHZ 166, 84 =
+NJW 2006, 830 = ZIP 2006, 317 = DB 2006, 607 = BKR 2006, 103 = JZ 2007, 148 m.
+Anm. v. Eckl, JR 2007, 157; Cosack/Enders, BKR 2006, 116; Ehricke, ZIP 2006, 925;
+Fischer, DB 2006, 598; Höpfer/Seibl, BB 2006, 673; Kort, NJW 2006, 1098; Segna WuB
+I B 2 – 3.06; Spindler, JZ 2006, 741; Lang, ZBB 2006, 115 (119); so vorher schon Nobbe,
+WM 2005, 1537 (1539); BGH DB 1953, 1031 = BB 1953, 993; ferner BGH WM 1973,
+892 (893 f.); OLG Karlsruhe WM 1971, 486 = NJW 1971, 1042). Es handelt sich um eine
+besondere Ausprägung des Grundsatzes von Treu und Glauben und ist selbst dann zu wahren, wenn es zu einem einzelnen Geschäft gar nicht kommt. Unterfallen Äußerungen dem
+Schutzbereich des Bankgeheimnisses, unterliegen sie dem Schutz nebenvertraglicher auf
+§ 280 Abs. 1 BGB gründender Interessewahrungs-, Schutz- und Loyalitätspflichten, von
+denen das Bankgeheimnis eine besondere Ausprägung darstellt (BGHZ 166, 84: 3. Leitsatz; ebenso BGH NJW 2007, 2106 = MDR 2007, 786 = DB 2007, 793 = ZIP 2007, 619
+= BB 2007, 619, m. Anm. v. Büttner, BB 2007, 798; Cahn WuB I B 2 – 1.07; Lieth, BKR
+2007, 198; Möhlenkamp, BB 2007, 1126; Weber/Bulach, EWiR 2007, 267). Grundrechtlich ist das Bankgeheimnis als Ausprägung des allgemeinen Persönlichkeitsrechts (Art. 1
+und 2 Abs. 1 GG) verbürgt (BGHZ 166, 84; BGH NJW 2004, 762; BGH NJW 1999, 2893;
+Nobbe, WM 2005, 1537 (1538)). Sein Inhalt und Umfang sind in Nr. 2 Abs. 1 AGB-Banken umschrieben.
+36 Das Bankgeheimnis soll die berechtigten Interessen des Bankkunden an der Geheimhaltung von Tatsachen wahren, die der Bank im Rahmen der Geschäftsverbindung zur
+Kenntnis kommen (östOGH, ÖBA 1988, 1021 (1022)). Es werden alle Tatsachen erfasst,
+die der Kunde geheim zu halten wünscht (BGHZ 27, 241 (246) = WM 1958, 776). Hierzu
+gehören z. B. auch der Umfang des dem Kunden gewährten Kredits und die von diesem
+hierfür gegebenen Sicherheiten, „überhaupt alle Verhältnisse des Kunden, deren Bekanntwerden ihm nachteilig werden kann (so RG, Bank-Archiv XXXIV (1934), 326; ferner
+RGZ 126, 50 (52) = Bank-Archiv XXIV, 256; RG, Bank-Archiv XIII, 309; RGZ 19, 103
+(104)).
+37 Ebenso wie den Umfang markiert in erster Linie das Einverständnis des Bankkunden auch
+die Grenzen des Bankgeheimnisses (BGH WM 1978, 1038 (1041); BGH WM 1973, 164
+(166); WM 1971, 817 (818); schon RGZ 139, 103). Eine allgemeine Schranke findet das
+Bankgeheimnis insbesondere dort, wo „höhere Interessen der Allgemeinheit“ eine Offenbarung erfordern (vgl. BVerfGE 118, 168 = ZIP 2007, 1356 = WM 2007, 1360 = NJW
+2007, 2464 m. Anm. v. Erm/Glatzek, EWiR 2008, 189; Geschwandtner/Lichtinghagen,
+WuB I L 1 § 24c KWG 1.08; Götzenberger, StB 2007, 425; Wenner, SozSich 2007, 316).
+Vgl. dazu auch Göres, NJW 2005, 253; Hamacher, DStR 2006, 633; Maidorn, NJW 2006,
+3752; zu nachrichtendienstlichen Abfragen Huber, NJW 2007, 881 und Abfragen im Rahmen europäischer Rechtshilfe Kutzner, DStR 2006, 639); ein Kreditinstitut wird ferner
+ausnahmsweise auch bei „einem überwiegenden eigenen Interesse“ von der VerschwieHäuser
+§ 2 Geschäftsbeziehung und Bankvertrag 37
+genheitspflicht befreit, wenn ganz besondere Umstände vorliegen. Erforderlich ist immer
+eine „pflichtgemäße Berücksichtigung der beiderseitigen Interessen (so RG, Bank-Archiv
+XXXIV (1934), 326). Dies gilt auch bei einem Konflikt zwischen einer Aufklärungspflicht des Kreditinstituts gegenüber einem anderen Kunden und der Pflicht zur Wahrung
+des Bankgeheimnisses; auch hier hat eine Güterabwägung stattzufinden. Dabei ist zu berücksichtigen, in welchem Umfang die aufklärungspflichtige Bank gezwungen wäre, Einzelheiten ihrer Geschäftsverbindung mit einem anderen Kunden und über dessen Vermögenslage zu offenbaren (BGH, WM 1991, 85 (86)).
+38
+7. Beendigung des allgemeinen Bankverhältnisses. a) Kündbarkeit nach Nr. 18 und
+19 AGB-Banken. Eine Kündigung kann sich nach Nr. 18 und 19 AGB-Banken auf einzelne Geschäftsbeziehungen oder auf die „gesamte Geschäftsverbindung“ beziehen. Die
+gesamte Geschäftsverbindung meint das auf Grund des allgemeinen Bankvertrages zustande gekommene Rechtsverhältnis. Dieses allgemeine Bankverhältnis kann der Kunde
+nach Nr. 18 AGB-Banken jederzeit und ohne Einhaltung einer Kündigungsfrist kündigen.
+Ebenso kann die Bank nach Nr. 19 AGB-Banken das allgemeine Bankverhältnis jederzeit
+kündigen, allerdings nur unter Einhaltung einer angemessenen Kündigungsfrist.
+39
+b) Beendigung durch Tod des Kunden. Durch Tod des Kunden erlischt der allgemeine
+Bankvertrag nicht. Der Bankvertrag wird vielmehr mit den Erben fortgesetzt. Der Erbe
+wird z. B. Kontoinhaber. Der Anspruch auf Geheimhaltung und die Befugnis zur Entbindung gehen beim Tod des Kunden auf den Erben über (BGHZ 107, 104 (108) = WM 1989,
+518). Dieser wird „Herr des Bankgeheimnisses“. Die Bank ist berechtigt, die Vorlage einer Erblegitimation zu verlangen (Nr. 5 Satz 1 AGB-Banken).
+40
+c) Das Bankverhältnis in der Insolvenz des Kunden. Mit der Eröffnung des Insolvenzverfahrens wird der Bankvertrag als Geschäftsbesorgungsvertrag gemäß §§ 116, 115 Abs.
+1 InsO beendet (Baumbach-Hopt, BankGesch Rn. A/6; a.A.: Ebenroth/Boujong/JoostThessinga, Bd. 2 BankR Rn. I 28).
+41
+C. Lehre vom „Vertrauensverhältnis kraft Geschäftsverbindung“
+I. Dauernde Geschäftsverbindung als gesetzliches Schuldverhältnis. Anknüpfend an
+Ausführungen des RG (RGZ 27, 118 (121)) über den besonderen, sich auch in rechtlich
+bedeutsamer Hinsicht dynamisch entwickelnden Charakter einer „dauernden Geschäftsverbindung“ wird von einer verbreiteten Meinung, die meistens dem allgemeinen
+Bankvertrag ablehnend gegenüber steht, das Verhältnis des Kunden zum Kreditinstitut
+auch ohne eine rechtsgeschäftliche Anknüpfung umfassend als ein besonderes gesetzliches Schuldverhältnis ohne primäre Leistungspflichten umschrieben, das zu einer
+Vertrauenshaftung führt. Eine solche dauernde Geschäftsverbindung wird handelsrechtlich weder als bloß tatsächliches Verhältnis noch als Vorvertrag oder Grund- oder Rahmenvertrag, sondern als gesetzliches Schuldverhältnis ohne primäre Leistungspflicht
+qualifiziert (Müller-Graff, JZ 1976, 153; Canaris, Anm. 12, 14; Karsten Schmidt, HandelsR, § 20 I 3, S. 603 ff.; Baumbach-Hopt, Vor § 343 HGB, Rn. 3).
+42
+Sie ist wie ein Anbahnungsverhältnis (§ 311 Abs. 2 BGB; culpa in contrahendo) Grundlage besonderer Schutzpflichten der Parteien, die von den während der Geschäftsverbindung geschlossenen oder beabsichtigten Einzelgeschäften unabhängig sind. Die Ausarbeitung dieser Lehre im Bankrecht geht insbesondere auf Canaris zurück, der in der
+bloßen Aufnahme der Geschäftsverbindung zwar keine hinreichende Anknüpfung für
+vertragliche Vereinbarungen sieht, aber an Stelle des allgemeinen Bankvertrages mit der
+Aufnahme der Geschäftsverbindung ein im Einzelnen ausdifferenziertes gesetzliches
+Schuldverhältnis ohne primäre Leistungspflicht setzt, das die Grundlage für eine VerHäuser
+Kap. I – Bankvertragliche Grundlagen
+38
+trauenshaftung bei der Verletzung der durch die Aufnahme der Geschäftsverbindung begründeten Pflichten bilde (Canaris, Rn. 21 ff.; zustimmend Kümpel, Rn. 2.808; Schwark,
+S. 100; ders., ZHR 151 (1987), 325 (329); Werner, ZBB 1990, 237 (238); Immenga, ZBB
+1990, 44; Rümker, ZHR 147 (1983), 27 (34); ders., ZIP 1989, 199; Pleyer, WM 1989,
+241).
+43 Bei der Vertrauenshaftung handelt es sich um eine dritte Haftungsform neben den herkömmlichen aus vertraglicher und deliktischer Einstandspflicht, die im modernen deutschen Privatrecht eine erhebliche Bedeutung erlangt hat (grundlegend Canaris, Die Vertrauenshaftung im deutschen Privatrecht, 1971). Mit dieser „Vertrauenshaftung kraft
+Geschäftsverbindung“, die ihre Grundlage nicht im rechtsgeschäftlichen Willen, sondern
+in § 242 BGB findet, hat man sich ein dogmatisches Instrument geschaffen, mit dem man
+zwischen den Parteien, hier zwischen Bank und Kunden, sehr flexibel nach Treu und
+Glauben Rechte und Pflichten zuteilen kann, ohne jeweils nach einer Begründung im
+rechtsgeschäftlichen Willen dieser Parteien suchen zu müssen. Eben dies erklärt auch zu
+einem guten Teil den Erfolg dieser Lehre.
+44 Auch diese Theorie ist kritisch aufgenommen worden (z.B. Flume, § 10, 5, S. 13; Fikentscher, § 18 III, Rn. 59, § 27 I 3, 4, Rn. 162; van Gelder, WM 1995, 1253 (1255); Rohe,
+S. 133 „konturlos“). So wird darauf hingewiesen, dass weder die „Geschäftsverbindung“
+noch die „Vertrauenshaftung“ eine hinreichende Präzision besitzen, die einen zusätzlichen Erklärungswert gegenüber der anerkannten Haftung aus c.i.c. besitze oder weitergehende Ergebnisse liefere (so Heymann-Horn, Anh. § 372 HGB Rn. I/8; dazu kritisch
+Peters, WM 1990, 1310; umfassender Überblick bei Rümker, ZHR 147 (1983), 27). Ferner wird gefragt, wie gerade ein „gesetzliches Schuldverhältnis“ das Rechtsverhältnis
+zwischen Bank und Kunde ausschöpfen könne angesichts der Zurückhaltung des Gesetzgebers im Bereich des privaten Bankrechts (Claussen, FS Peltzer, S. 55 (67)).
+45 II. Rechtsprechung. Die allgemeinen Verhaltenspflichten der Banken werden in der
+Rechtssprechung meistens entweder als Nebenpflicht aus den einzelnen Bankgeschäften
+entnommen oder auf die Geschäftsverbindung zwischen Bank und Kunde gestützt, ohne
+dass auf die dogmatischen Streitfragen zum Bankvertrag näher eingegangen würde (MünchKommBGB-K. P. Berger, Vor § 488, Rn. 78). In der Rechtsprechung finden sich nicht
+selten alternative Formulierungen zur Charakterisierung der bankmäßigen Geschäftsverbindung auch als „vertragsähnliches Verhältnis“. Im Übrigen erschien die Haltung des
+BGH zwiespältig. So verteidigte er in einer Entscheidung den Standpunkt des Berufungsgerichts, es bestünde ein „gesetzliches Schuldverhältnis“ zwischen den Grundstückseigentümern und der kreditgebenden Bank des Erbbauberechtigten (BGHZ 81, 358 (360) =
+WM 1981, 1258, im Anschluss an GK-HGB-Canaris, Anh. § 357 Anm. 9 ff., 15 f.). Es
+sei nämlich möglich, dass ein Bankinstitut von Rechts wegen Schutzpflichten gegenüber
+dritten Personen treffen, wenn es – zumal im eigenen wirtschaftlichen Interesse – deren
+Vertrauen in Anspruch nimmt und ihr Dispositionen gegenüber dem Bankkunden beeinflusst.
+46 Zuletzt hat der BGH gegenüber der Rechtsfigur einer „vertragsähnlichen Vertrauenshaftung“ in deutlicher Zurückhaltung betont, eine derartige Bindung könne allenfalls in besonders gelagerten Ausnahmefällen bejaht werden. Andernfalls würde die im geltenden
+Haftungssystem bewusst gezogene Grenze zwischen vertraglichem und deliktischem Bereich weitgehend aufgehoben (BGH WM 1988, 1828 (1830); dazu Roth, WM 2003, 480,
+ferner BGH WM 1974, 751 = NJW 1974, 1503; Rümker, ZHR 147 (1983), 27 (33, 34)).
+47 III. Vertrauenshaftung kraft Geschäftsverbindung bei Unwirksamkeit des Bankvertrages. Auch die Anhänger der Lehre vom Bankvertrag übersehen nicht, dass bei BankHäuser
+§ 2 Geschäftsbeziehung und Bankvertrag 39
+geschäften tatsächlich eine laufende Geschäftsverbindung zwischen der Bank und dem
+Kunden regelmäßig besteht. Deshalb erfassen sie, wenn es beispielsweise bei Geschäftsunfähigkeit des Kunden an einem wirksamen Bankvertrag fehlt, die geschäftlichen Beziehungen zwischen Bank und Kunde rechtlich mit der Lehre von der Geschäftsverbindung und greifen in diesem Fall auf Vertrauenshaftung kraft Geschäftsverbindung
+zurück (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 46). Bei einem Einmalgeschäft ist
+Anspruchsgrundlage culpa in contrahendo (§ 311 Abs. 2 BGB) und bei einer Geschäftsverbindung als Lückenfüllung die Vertrauenshaftung kraft Geschäftsverbindung, die danach also die Rolle einer bloßen Residualkategorie für die nicht häufigen gestörten Geschäftsverbindungen einnimmt (Schimansky/Bunte/Lwowski-Hopt, § 1 Rn. 53).

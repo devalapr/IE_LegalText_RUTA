@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+    <name>Main_SabineTypeSystem</name>
+    <imports>
+        <import location="BasicTypeSystem.xml"/>
+        <import location="GeneratedDKProCoreTypes.xml"/>
+        <import location="Stanfordtagger.xml"/>
+    </imports>
+    <types>
+        <typeDescription>
+            <name>Main_Sabine.Gericht</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>ger</name>
+                    <description>ger</description>
+                    <rangeTypeName>Main_Sabine.ger</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.chaptertopic</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.gesetzno</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.gesetznope</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.subchapterpage</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.REF1</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>lref</name>
+                    <description>lref</description>
+                    <rangeTypeName>Main_Sabine.lref</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>rref</name>
+                    <description>rref</description>
+                    <rangeTypeName>Main_Sabine.rref</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.subsubchapter</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE48</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE49</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE46</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE47</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.DBPedia</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>Link</name>
+                    <description>Link</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>SimilarityScore</name>
+                    <description>SimilarityScore</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>Offset</name>
+                    <description>Offset</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>Types</name>
+                    <description>Types</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE44</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE45</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE42</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE43</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFCNE41</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.gesetz</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.chapternumber</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.partpage</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.ger</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.lref</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.explicitReference2</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.subchapter</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.Chapter</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>chapternumber</name>
+                    <description>chapternumber</description>
+                    <rangeTypeName>Main_Sabine.chapternumber</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>chaptertopic</name>
+                    <description>chaptertopic</description>
+                    <rangeTypeName>Main_Sabine.chaptertopic</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.partnumber</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RN</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>Value</name>
+                    <description>Value</description>
+                    <rangeTypeName>uima.cas.String</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.Richtlinie</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>rili</name>
+                    <description>rili</description>
+                    <rangeTypeName>Main_Sabine.rili</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.toc</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.SubChapter</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>subchapternumber</name>
+                    <description>subchapternumber</description>
+                    <rangeTypeName>Main_Sabine.subchapternumber</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>subchapterpage</name>
+                    <description>subchapterpage</description>
+                    <rangeTypeName>Main_Sabine.subchapterpage</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>subchapter</name>
+                    <description>subchapter</description>
+                    <rangeTypeName>Main_Sabine.subchapter</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.subsubchapterpage</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.parttopic</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.ref1</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.Part</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>partnumber</name>
+                    <description>partnumber</description>
+                    <rangeTypeName>Main_Sabine.partnumber</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>parttopic</name>
+                    <description>parttopic</description>
+                    <rangeTypeName>Main_Sabine.parttopic</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>partpage</name>
+                    <description>partpage</description>
+                    <rangeTypeName>Main_Sabine.partpage</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.rili</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.vo</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.SubSubChapter</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>subsubchapternumber</name>
+                    <description>subsubchapternumber</description>
+                    <rangeTypeName>Main_Sabine.subsubchapternumber</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>subsubchapter</name>
+                    <description>subsubchapter</description>
+                    <rangeTypeName>Main_Sabine.subsubchapter</rangeTypeName>
+                </featureDescription>
+                <featureDescription>
+                    <name>subsubchapterpage</name>
+                    <description>subsubchapterpage</description>
+                    <rangeTypeName>Main_Sabine.subsubchapterpage</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFC_NE3</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFC_NE4</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFC_NE1</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.Gesetz</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>gesetz</name>
+                    <description>gesetz</description>
+                    <rangeTypeName>Main_Sabine.gesetz</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.RFC_NE2</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.subchapternumber</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.Verordnung</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+            <features>
+                <featureDescription>
+                    <name>vo</name>
+                    <description>vo</description>
+                    <rangeTypeName>Main_Sabine.vo</rangeTypeName>
+                </featureDescription>
+            </features>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.rfc2</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.rfc</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.rfc1</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.rref</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>Main_Sabine.subsubchapternumber</name>
+            <description>Type defined in Main_Sabine</description>
+            <supertypeName>uima.tcas.Annotation</supertypeName>
+        </typeDescription>
+    </types>
+</typeSystemDescription>
