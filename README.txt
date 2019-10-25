@@ -87,3 +87,9 @@ NOTE: In case, there are input files which do not contain any annotations, still
 One can delete these zero sized files by using the following command:
 
 find . -type f -size 0 -delete
+
+
+
+Update: 25-10-2019: Just found out that the RefExtractor_lib folder is missing a jar file and its size is bigger than 25MB.
+This is the jar name: de.tudarmstadt.ukp.dkpro.core.stanfordnlp-upstream-tagger-de-hgc-20140827.jar
+This is probably not required for the pipeline. However, if required, then I suggest that you build the maven project and create the jar file
