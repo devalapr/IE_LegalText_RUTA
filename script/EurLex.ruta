@@ -1,0 +1,30 @@
+// IMPORT Required Libraries and packages
+IMPORT PACKAGE de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos FROM GeneratedDKProCoreTypes AS pos;
+IMPORT de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma FROM GeneratedDKProCoreTypes;
+IMPORT PACKAGE de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos FROM Stanfordtagger AS spos;
+//IMPORT PACKAGE de.tudarmstadt.ukp.dkpro.core.api.ner.type FROM GeneratedDKProCoreTypes AS ner;
+IMPORT PACKAGE org.apache.uima.ruta.type FROM GeneratedDKProCoreTypes AS ruta;
+
+// UIMA FIT STUFF
+UIMAFIT de.tudarmstadt.ukp.dkpro.core.stanfordnlp.StanfordSegmenter;
+UIMAFIT de.tudarmstadt.ukp.dkpro.core.stanfordnlp.StanfordPosTagger;
+//UIMAFIT de.tudarmstadt.ukp.dkpro.core.stanfordnlp.StanfordParser;
+
+// Set Document Properties
+Document{-> SETFEATURE("language","en")};  //Set language
+Document{-> EXEC(StanfordSegmenter)};    //Execute Stanford Segmenter
+Document{-> EXEC(StanfordPosTagger, {spos.POS})};
+Document{-> RETAINTYPE(SPACE)};
+Document{-> RETAINTYPE(BREAK)};
+
+//------------------------------------------------------------------------------//
+//---------------- Richtlinie / Directive and Verordnung/Regulation ------------//
+// Directive format: Directive 2002/59/EC Directive 2010/65/EU Directive 93/75/EEC
+// Regulation: Regulation (EU) No 952/2013 Regulation (EU) 2018/1725 Regulation (EC) No 725/2004
+// Article 145 of Regulation (EU) No 952/2013
+// Articles 4(2) and 5(2) of Council Directive 98/41/EC
+//------------------------------------------------------------------------------//
+DECLARE Regulation, Directive, Article;
+((ruta.CW{REGEXP("Regulation")}) ruta.ANY (ruta.CAP{REGEXP("EU")}|ruta.CAP{REGEXP("EC")}) (ruta.ANY[0,5]))  { -> MARK(Regulation)};
+((ruta.CW{REGEXP("Directive")}) (ruta.ANY[0,5]) )  { -> MARK(Directive)};
+((ruta.CW{REGEXP("Article")}) ruta.ANY[0,10]? (Directive|Regulation))  { -> MARK(Article)};
